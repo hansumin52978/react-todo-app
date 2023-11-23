@@ -43,7 +43,7 @@
       background: #fa5252;
     }
 
-    transform: translate(-50%, 50%) rotate(45deg);
+    transform: translate(-50%, 50%) rotate(45deg); // translate(x, y) X축으로 x만큼, Y축으로 y만큼 이동시킴
   }
 
   z-index: 5;
